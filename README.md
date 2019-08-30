@@ -85,11 +85,11 @@ python predict_video.py --model PATH_TO_EXPORT_MODEL/fronzen_inference_graph.pb 
 ### Evaluation of the SSD model
 Figure 1 and Figure 2 below show the evaluation of the model including precision and recall of detection boxes. As we can see, the SSD model achieves 65.71% mAP @ 0.5 IoU.
 
-<img src="https://github.com/meng1994412/Vehicles_View_Detection/blob/master/output/DetectionBoxes_Precision.png" height="500">
+<img src="https://github.com/meng1994412/Vehicles_View_Detection/blob/master/output/DetectionBoxes_Precision.png" height="450">
 
 Figure 1: Precision evaluation of the model.
 
-<img src="https://github.com/meng1994412/Vehicles_View_Detection/blob/master/output/DetectionBoxes_Recall.png" height="500">
+<img src="https://github.com/meng1994412/Vehicles_View_Detection/blob/master/output/DetectionBoxes_Recall.png" height="450">
 
 Figure 2: Recall evaluation of the model.
 
